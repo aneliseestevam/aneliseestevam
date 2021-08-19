@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Trídia Criação e Desenvolvimento de Software, Brasília/DF - Brazil
-- 🌱 I’m currently learning C, PHP, Typescript, Ionic, Angular, NodeJS
+- 🌱 I’m currently learning C, PHP, Ruby, Typescript, Ionic, Angular, NodeJS
 - 🤔 I’m looking for help with C, NodeJS, Soft Skills
 - 💬 Ask me about Bullet Journal or GTD
 - 📫 How to reach me: aestevam.dev@gmail.com
