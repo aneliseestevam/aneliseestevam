@@ -16,4 +16,4 @@
 
 #
 
-[![aestevam's 42 stats](https://badge42.herokuapp.com/api/stats/aestevam?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+<!-- [![aestevam's 42 stats](https://badge42.herokuapp.com/api/stats/aestevam?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
