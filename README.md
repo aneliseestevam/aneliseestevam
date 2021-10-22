@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Trídia Criação e Desenvolvimento de Software, Brasília/DF - Brazil
-- 🌱 I’m currently learning C, PHP, Typescript
-- 🤔 I’m looking for help with C, NodeJS, Soft Skills
-- 💬 Ask me about Bullet Journal or GTD
+- 🌱 I’m currently learning C, Ruby, Typescript
+- 🤔 I’m looking for help with Ruby
+- 💬 Ask me about Bullet Journal, GTD, Ionic or Joomla! 
 - 📫 How to reach me: aestevam.dev@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play guitar since I was 6 years old.
